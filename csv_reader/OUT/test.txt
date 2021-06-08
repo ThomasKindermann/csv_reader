@@ -1,4 +1,4 @@
-﻿name,age,gender,City
+name,age,gender,City
 Hans,32,M,Cologne
 Horst,24,M,Bonn
 Elfriede,252,F,Nordpol
