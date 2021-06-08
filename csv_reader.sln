@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csv_reader", "csv_reader\csv_reader.csproj", "{01FBE2F3-79AE-4001-B1BF-5EB5ECBF9286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FBE2F3-79AE-4001-B1BF-5EB5ECBF9286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FBE2F3-79AE-4001-B1BF-5EB5ECBF9286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FBE2F3-79AE-4001-B1BF-5EB5ECBF9286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FBE2F3-79AE-4001-B1BF-5EB5ECBF9286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {605D7164-12B8-4FE2-B426-4C9E24DE4B14}
+	EndGlobalSection
+EndGlobal
